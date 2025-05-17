@@ -3,3 +3,4 @@
 All notable changes documented here.
 
 - **2025-05-14**: style: refine Python type hints across collector package
+- **2025-05-17**: refactor: separate reconciler state machine from API handlers
