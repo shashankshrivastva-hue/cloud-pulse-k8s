@@ -10,3 +10,4 @@ All notable changes documented here.
 - **2025-05-24**: docs: document predictive autoscaling mathematical threshold model
 - **2025-05-26**: feat: add prometheus metric export for detected anomaly events
 - **2025-05-28**: style: refine Python type hints across collector package
+- **2025-05-31**: docs: document predictive autoscaling mathematical threshold model
