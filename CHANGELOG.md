@@ -12,3 +12,4 @@ All notable changes documented here.
 - **2025-05-28**: style: refine Python type hints across collector package
 - **2025-05-31**: docs: document predictive autoscaling mathematical threshold model
 - **2025-06-05**: feat: support multi-dimensional autoscaling on memory and network
+- **2025-06-09**: perf: reduce memory footprint of metrics rolling buffer
