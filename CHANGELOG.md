@@ -16,3 +16,4 @@ All notable changes documented here.
 - **2025-06-13**: style: refine Python type hints across collector package
 - **2025-06-15**: feat: support multi-dimensional autoscaling on memory and network
 - **2025-06-17**: fix: handle Kubernetes API network timeout retries with backoff
+- **2025-06-21**: fix: handle Kubernetes API network timeout retries with backoff
