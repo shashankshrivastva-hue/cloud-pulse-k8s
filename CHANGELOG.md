@@ -17,3 +17,4 @@ All notable changes documented here.
 - **2025-06-15**: feat: support multi-dimensional autoscaling on memory and network
 - **2025-06-17**: fix: handle Kubernetes API network timeout retries with backoff
 - **2025-06-21**: fix: handle Kubernetes API network timeout retries with backoff
+- **2025-06-24**: test: add unit test simulating sudden 400% CPU spikes
