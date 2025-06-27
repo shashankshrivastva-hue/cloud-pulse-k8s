@@ -20,3 +20,4 @@ All notable changes documented here.
 - **2025-06-24**: test: add unit test simulating sudden 400% CPU spikes
 - **2025-06-24**: docs: document predictive autoscaling mathematical threshold model
 - **2025-06-27**: feat: support multi-dimensional autoscaling on memory and network
+- **2025-06-27**: test: add unit test simulating sudden 400% CPU spikes
