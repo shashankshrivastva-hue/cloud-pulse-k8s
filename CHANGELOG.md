@@ -23,3 +23,4 @@ All notable changes documented here.
 - **2025-06-27**: test: add unit test simulating sudden 400% CPU spikes
 - **2025-06-29**: docs: document predictive autoscaling mathematical threshold model
 - **2025-07-02**: style: refine Python type hints across collector package
+- **2025-07-06**: feat: support multi-dimensional autoscaling on memory and network
