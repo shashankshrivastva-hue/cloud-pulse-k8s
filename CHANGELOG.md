@@ -25,3 +25,4 @@ All notable changes documented here.
 - **2025-07-02**: style: refine Python type hints across collector package
 - **2025-07-06**: feat: support multi-dimensional autoscaling on memory and network
 - **2025-07-09**: docs: document predictive autoscaling mathematical threshold model
+- **2025-07-09**: feat: support multi-dimensional autoscaling on memory and network
