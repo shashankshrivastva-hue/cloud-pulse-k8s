@@ -35,3 +35,4 @@ All notable changes documented here.
 - **2025-07-24**: docs: add Helm deployment example for production clusters
 - **2025-07-27**: refactor: separate reconciler state machine from API handlers
 - **2025-07-27**: perf: reduce memory footprint of metrics rolling buffer
+- **2025-07-30**: fix: handle Kubernetes API network timeout retries with backoff
