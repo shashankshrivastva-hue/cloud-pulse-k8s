@@ -37,3 +37,4 @@ All notable changes documented here.
 - **2025-07-27**: perf: reduce memory footprint of metrics rolling buffer
 - **2025-07-30**: fix: handle Kubernetes API network timeout retries with backoff
 - **2025-07-30**: chore: bump Kubernetes client library version
+- **2025-08-01**: docs: document predictive autoscaling mathematical threshold model
