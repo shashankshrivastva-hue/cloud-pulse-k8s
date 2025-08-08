@@ -1,0 +1,4 @@
+apiVersion: v2
+name: cloud-pulse-k8s
+version: 1.0.0
+description: CloudPulse Telemetry Controller

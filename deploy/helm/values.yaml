@@ -1,0 +1,3 @@
+replicaCount: 1
+targetCpuUtilization: 70
+zThreshold: 2.5
