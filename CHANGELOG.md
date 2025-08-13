@@ -40,3 +40,4 @@ All notable changes documented here.
 - **2025-08-01**: docs: document predictive autoscaling mathematical threshold model
 - **2025-08-06**: fix: handle Kubernetes API network timeout retries with backoff
 - **2025-08-10**: refactor: separate reconciler state machine from API handlers
+- **2025-08-13**: chore: bump Kubernetes client library version
