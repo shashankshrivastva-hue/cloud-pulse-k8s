@@ -44,3 +44,4 @@ All notable changes documented here.
 - **2025-08-13**: feat: add prometheus metric export for detected anomaly events
 - **2025-08-15**: fix: handle Kubernetes API network timeout retries with backoff
 - **2025-08-15**: feat: add prometheus metric export for detected anomaly events
+- **2025-08-18**: docs: add Helm deployment example for production clusters
